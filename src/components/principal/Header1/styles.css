@@ -1,0 +1,104 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 20px;
+  color: #FFF;
+  text-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+  font-family: Raleway;
+  font-size: 18px;
+  position: fixed;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 1000px;
+}
+
+.menu-item {
+  cursor: pointer;
+  position: relative;
+  margin-right: 20px;
+}
+
+.menu-options {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #f4f4f4;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+   /* Controla la visibilidad del menú */
+}
+
+.menu-options li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.menu-options li:last-child {
+  border-bottom: none;
+}
+
+.other-item {
+  cursor: pointer;
+}
+.menu {
+  position: relative;
+  display: inline-block;
+  width: 1600px;
+  height: 49px;
+  flex-shrink: 0;
+}
+
+.other-item{
+  margin-right:120px;
+}
+
+.menu-text{
+  width: 325px;
+height: 35px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Raleway;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.menu-icon {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+  font-weight: bold;
+}
+
+.menu-options {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #f4f4f4;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+}
+
+.menu-options li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.menu-options li:last-child {
+  border-bottom: none;
+}
