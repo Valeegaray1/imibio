@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/imibio/static/css/main.326e8f4f.css",
-    "main.js": "/imibio/static/js/main.ac870970.js",
+    "main.css": "/imibio/static/css/main.ee6261b0.css",
+    "main.js": "/imibio/static/js/main.0979a7c9.js",
     "static/js/787.3a0089e7.chunk.js": "/imibio/static/js/787.3a0089e7.chunk.js",
     "static/media/Cataratas.mp4": "/imibio/static/media/Cataratas.bb105f620ef559994e50.mp4",
     "static/media/image2.jpg": "/imibio/static/media/image2.11ecb54e13e56fa74f71.jpg",
@@ -14,12 +14,12 @@
     "static/media/IMG2.jpg": "/imibio/static/media/IMG2.141ca3ec9fcb2330707b.jpg",
     "static/media/IMG1.jpg": "/imibio/static/media/IMG1.9e3b0c94e5057b7bc2ac.jpg",
     "index.html": "/imibio/index.html",
-    "main.326e8f4f.css.map": "/imibio/static/css/main.326e8f4f.css.map",
-    "main.ac870970.js.map": "/imibio/static/js/main.ac870970.js.map",
+    "main.ee6261b0.css.map": "/imibio/static/css/main.ee6261b0.css.map",
+    "main.0979a7c9.js.map": "/imibio/static/js/main.0979a7c9.js.map",
     "787.3a0089e7.chunk.js.map": "/imibio/static/js/787.3a0089e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.326e8f4f.css",
-    "static/js/main.ac870970.js"
+    "static/css/main.ee6261b0.css",
+    "static/js/main.0979a7c9.js"
   ]
 }
